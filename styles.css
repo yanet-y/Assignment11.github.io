@@ -36,6 +36,14 @@
     padding-right: 70px;
     list-style: none;
   }
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  a:hover{
+    border-bottom: 2px solid white;
+    padding-bottom: 10px;
+  }
 
   img {
     width: 100%;
